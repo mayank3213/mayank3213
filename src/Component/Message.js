@@ -12,7 +12,7 @@ class Message extends Component {            //State in class Component
 
         this.setState({                  // aceept the new state of the object 
 
-            Message:'Thankyou for Subscribing'
+            Message:'Thankyou for Subscribing gandu'
         })
     }           
                 render(){

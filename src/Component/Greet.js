@@ -20,4 +20,4 @@ const Greet = (props) => {        // PROPS     // Arrow function
 }
 
     
-export default Greet
+export default Greet                             
